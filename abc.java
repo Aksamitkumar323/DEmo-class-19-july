@@ -1,5 +1,7 @@
-public class Abc {
-  public static void main(string args[]){
-     System.out.println("hello everybody");
-}
+public class Main {
+  public static void main(String[] args) {
+    for (int i = 0; i <= 10; i++) {
+      System.out.println("Hello EveryBody");
+    }  
+  }
 }
